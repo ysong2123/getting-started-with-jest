@@ -1,0 +1,24 @@
+{
+  "name": "@paypalcorp/getting-started-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.2.5",
+    "babel-jest": "^28.0.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^28.0.3",
+    "ts-jest": "^28.0.1",
+    "ts-node": "^10.7.0"
+  }
+}
